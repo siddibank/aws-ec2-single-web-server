@@ -20,4 +20,4 @@ A single EC2 instance running Apache HTTP Server (httpd), serving a static HTML 
 
 ## Architecture Diagram
 
-![Architecture](architecture/Single%20EC2%20web%20server%20architecture%20diagram.png)
+![Architecture](architecture/Single-EC2-web-server-architecture-diagram.png)
